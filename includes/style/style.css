@@ -1,0 +1,370 @@
+
+/** Stylesheet
+*   @author Pierre Romera - pierre.romera@gmail.com
+*   @desc
+*/
+
+body {
+    padding:0px;
+    margin:0px;
+    background:#666;
+}
+
+a img {
+    border:0px;
+}
+
+#app {
+    
+    width:990px;
+    height:667px;
+    border:1px solid white;
+    padding:0px;
+    margin:0px;
+
+    /*
+    -moz-box-shadow:0px 20px 100px #000;
+    -webkit-box-shadow:0px 20px 100px #000;
+    -khtml-box-shadow:0px 20px 100px #000;
+    box-shadow:0px 20px 100px #000;
+    */
+}
+
+#workspace {
+    background:no-repeat center center;
+    height:667px;
+}
+
+#overflow {
+    height:667px;
+    width:990px;
+    overflow:hidden;
+}
+
+#mask {
+    height:667px;
+    width:990px;
+    margin-top:-667px;
+    background: url("img/mask.png");
+
+    position:relative;
+    z-index:799;
+
+    display:none;
+}
+
+#footer {
+    position:relative;
+    z-index:699;
+    height:35px;
+    padding:20px 21px;
+    background: transparent no-repeat 21px 13px ;
+
+    margin-top:-75px;
+}
+
+#footer .toggle{
+    display:none;
+}
+
+.powered {
+    display:block;
+    float:left;
+    margin-top:-7px;
+}
+
+.like {
+
+    height:17px;
+    padding:7px;
+    top:-2px;
+    margin-left:20px;
+    float:left;
+
+    background:white;
+
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -khtml-border-radius:20px;
+}
+
+.copier {
+    padding:2px;
+    font-weight:bold;
+    top:-2px;
+    position:relative;
+    font-size:15px;
+}
+
+.copierTitle {
+    margin-left:-40px;
+    margin-top:5px;
+}
+
+.sharing {
+    
+    height:17px;
+    padding:7px;
+    top:-2px;
+    float:right;
+    
+    background:white;
+
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -khtml-border-radius:20px;
+    
+}
+
+
+.sharing a, .sharing .share{
+   font-size:12px;
+   color:gray;
+   text-decoration:none;
+   float:right;
+   margin-right:5px;
+}
+
+.sharing .bg-white {
+    background:white;
+    padding:1px 2px;
+    padding-bottom:0px;
+    height:17px;
+    
+    border-radius:3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    -khtml-border-radius:3px;
+
+    border:1px solid silver;
+}
+
+.sharing a img{
+    border:0px;
+    margin:0px;
+    padding:0px;
+}
+
+.inputEmbed {
+    display:none;
+    width:700px;
+    padding:10px;
+    z-index:999;
+    text-align:center;
+    font-size:18px;
+    color:white;
+    font-family: Verdana;
+    text-shadow:0px 0px 4px #000;
+}
+
+
+.inputEmbed input.text {
+    border:silver 1px solid;
+    font-size:20px;
+    padding:2px;
+    width:400px;
+    color:white;
+    background: black;
+    margin-top:5px;
+}
+
+#home {
+    background: transparent;
+    height:407px;
+    padding-left:140px;
+    padding-top: 260px;
+    
+    display: block;
+    margin-bottom:-667px;
+    overflow:hidden;
+
+    position:relative;
+    z-index:0;
+}
+
+#home .pays {
+    float:left;
+    width:140px;
+    padding-top:220px;
+    font-family: 'Droid Serif', arial, serif;
+    font-weight:bold;
+    font-style:italic;
+    text-align:center;
+    font-size:16px;
+    color:#352a33;
+
+    position:relative;
+    z-index:10;
+    opacity:0.5;
+}
+
+#home .pays.active {
+    opacity:1;
+    cursor:pointer;
+}
+
+
+#home .pays.allemagne {
+    background: url("./img/allemagne-off.png") no-repeat 30px center;
+}
+
+#home .pays.bulgarie {
+    background: url("./img/bulgarie-off.png") no-repeat 30px center;
+}
+
+#home .pays.italie {
+    background: url("./img/italie-off.png") no-repeat center center;
+}
+
+#home .pays.france {
+    background: url("./img/france-off.png") no-repeat center center;
+}
+
+#home .pays.uk {
+    background: url("./img/uk-off.png") no-repeat center left;
+}
+
+
+
+#home .pays:hover {
+    color:white;
+}
+
+#home .pays.allemagne:hover {
+    background: url("./img/allemagne.png") no-repeat 30px center;
+}
+
+#home .pays.bulgarie:hover {
+    background: url("./img/bulgarie.png") no-repeat 30px center;
+}
+
+#home .pays.italie:hover {
+    background: url("./img/italie.png") no-repeat center center;
+}
+
+#home .pays.france:hover {
+    background: url("./img/france.png") no-repeat center center;
+}
+
+#home .pays.uk:hover {
+    background: url("./img/uk.png") no-repeat center left;
+}
+
+
+#road {
+    display:none;
+    background: url("./img/road-fr_FR.jpg") no-repeat center top;
+    height:7337px;
+    position:relative;
+    z-index:20;
+}
+
+
+#road .slide {
+    height:667px;
+    position:relative;
+    z-index:550;
+}
+
+.women {
+    position:relative;
+    top:370px;
+    left:50%;
+    margin-left:-36px;
+    width:100px;
+    height:0px;
+    z-index:400;
+    display:block;
+}
+
+.foreground {
+    height:0px;
+    position:relative;
+    z-index:500;
+}
+
+.question, .reponse {
+    position:absolute;
+    z-index:550;
+    color:white;
+}
+
+.slide .question {
+    height:0px;
+    font-family: 'Yanone Kaffeesatz', arial, serif;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:45px;
+    color:white;
+    position:relative;
+}
+.slide .reponse {
+    position:absolute;
+    text-align:center;
+    height:0px;
+    width:0px;
+}
+
+.slide .box_droite {
+    position:absolute;
+    height:0px;
+    text-align:left;
+    font-family: 'Yanone Kaffeesatz', arial, serif;
+    font-size:24px;
+    letter-spacing:0px;
+}
+
+.slide .chiffre {
+    height:0px;
+    position:absolute;
+    font-size:70px;
+    font-family: 'Droid Serif', arial, serif;
+    color:white;
+
+}
+
+.slide .sous_chiffre {
+    height:0px;
+    text-align:left;
+    position:absolute;
+    font-family: 'Yanone Kaffeesatz', arial, serif;
+    font-size:15px;
+    color:white;
+}
+
+.slide .source {
+    position:absolute;
+    width:200px;
+    height:40px;
+    display:block;
+}
+
+.ctrl {
+    display: none;
+    float:right;
+    background: url("./img/btnscroll.png") center right no-repeat;
+    height:123px;
+    margin-top:-123px;
+    width:64px;
+    position:relative;
+    top:-230px;
+    right:-20px;
+    z-index:899;
+    overflow:hidden;
+}
+
+.ctrl span{
+    cursor:pointer;
+    width:64px;
+    height:61px;
+    text-indent: 999px;
+    display: block;
+}
+.previous {
+    display:block;
+    width:60px;
+    height:76px;
+    border:0px;
+}

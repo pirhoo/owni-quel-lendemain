@@ -1,0 +1,83 @@
+[{
+    "decalage" : 0,
+    "question" : "Vous<br />résidez<br />en Bulgarie",
+    "box_droite" : "Vous avez eu<br />un rapport non protégé",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Quelles<br />seront vos possibilités ?",
+    "box_droite" : "Quels seront<br />vos choix",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "En parlerez-vous<br />avec vos parents?",
+    "box_droite" : "Les jeunes Bulgares sont parmi les moins rigoureuses dans leur utilisation des contraceptifs, puisque 25% d'entre elles n'en utilisent pas à 15 ans.",
+    "chiffre" : "15%",
+    "sous_chiffre" : "des jeunes Bulgares ont reçu une éducation sexuelle de leurs parents.",
+    "source" : "http://www2.hu-berlin.de/sexology/IES/bulgaria.html"
+},{
+    "decalage" : 0,
+    "question" : "Déciderez vous d’aller voir un medecin ? Dans quelles conditions pourrez-vous le consulter ?",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "",
+    "box_droite" : "Le paradoxe communiste (droit des femmes à choisir mais manque chronique de moyens de faire son choix) se fait toujours sentir en Bulgarie, malgré une plus forte utilisation des moyens de contraception depuis 2000.",
+    "chiffre" : "10%",
+    "sous_chiffre" : "des Bulgares connaissent l'existence des centres de planning familial.",
+    "source" : "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739380/"
+},{
+    "decalage" : 0,
+    "question" : "Pour obtenir la pilule il faut vous rendre chez un professionnel de santé",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Vous vous rendez<br />à la pharmacie<br />ou dans un autre<br />centre habilité<br />à vous délivrer<br />la pilule du lendemain",
+    "box_droite" : "Campagne de pub, guerre, des prix… La pilule du lendemain est un marché lucratif en Bulgarie, où il s'en vend près de 50 000 par an. Presqu'autant qu'en France.",
+    "chiffre" : "500<small>k</small>",
+    "sous_chiffre" : "€, la taille du marché de la pilule du lendemain en Bulgarie en 2009.",
+    "source" : "http://www.novinite.com/view_news.php?id=118125"
+},{
+    "decalage" : 37,
+    "question" : "Si vous avez mis plus de 5 jours à parvenir jusqu’à cette étape",
+    "box_droite" : "...et que votre test de grossesse est positif, vous êtes contrainte d’envisager une I.V.G",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -300,
+    "question" : "L’I.V.G dans votre pays",
+    "box_droite" : "Comme dans la plupart des pays anciennement socialistes (Pologne exclue), l'avortement est libéralisé en Bulgarie. Avec 1,5% d'IVG chez les moins de 19 ans, les Bulgares restent dans la moyenne de l'Union.",
+    "chiffre" : "3 536",
+    "sous_chiffre" : "jeunes de moins de 19 ans ont subit une IVG en 2007",
+    "source" : "http://reproductiverights.org/en/document/east-central-europe-abortion-laws-and-policies-in-brief"
+},{
+    "decalage" : 0,
+    "question" : "Cette histoire n’est pas seulement la votre…",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -200,
+    "question" : "Voici les données statistiques concernant les autres jeunes filles ayant été confrontées aux mêmes décisions.",
+    "box_droite" : "Champions d'Europe des accouchements de mineures, les jeunes Bulgares ne sont pas moins de 4% à être mères, loin devant les Roumaines et les Anglaises.",
+    "chiffre" : "9 675",
+    "sous_chiffre" : "mères de moins de 19 ans ont accouché en 2008",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+}]
+
+
+
+
+

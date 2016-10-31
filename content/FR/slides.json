@@ -1,0 +1,83 @@
+[{
+    "decalage" : 0,
+    "question" : "Vous<br />résidez<br />en France",
+    "box_droite" : "Vous avez eu<br />un rapport non protégé",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Quelles<br />seront vos possibilités ?",
+    "box_droite" : "Quels seront<br />vos choix",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "En parlerez-vous<br />avec vos parents?",
+    "box_droite" : "L'&nbsp;éducation sexuelle est obligatoire en France depuis 40 ans et les élèves doivent l'étudier plus de 30 heures au cours de leur scolarité. Dans les faits, la peur des réactions des parents freine l'éducation.",
+    "chiffre" : "89%",
+    "sous_chiffre" : "des jeunes Françaises sexuellement actives utilisent un moyen de contraception à 15 ans.",
+    "source" : "http://www.lefigaro.fr/actualite-france/2010/02/04/01016-20100204ARTFIG00006-le-casse-tete-de-l-education-sexuelle-a-l-ecole-.php"
+},{
+    "decalage" : 0,
+    "question" : "Déciderez-vous d’aller voir un medecin ? Dans quelles conditions pourrez-vous le consulter ?",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "",
+    "box_droite" : "Même si elles n'en ont pas besoin pour se faire prescrire la pilule du lendemain, les Françaises ne sont pas les mieux loties en Europe en termes de gynécologie, avec 27 médecins pour 100.000 femmes (12e rang).",
+    "chiffre" : "25%",
+    "sous_chiffre" : "des Françaises ne sont pas suivies par un gynéco.",
+    "source" : "http://books.google.com/books?id=XEcKgHCeB1YC&pg=PA72&lpg=PA72&dq=frauen%C3%A4rtzte+anzahl+frankreich&source=bl&ots=JNWHa2zFsl&sig=-MNQcFwMRVqYaVWVKh-DpNLTp28&hl=en&ei=rZuhTNW8M96N4gbAroSIAw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CBkQ6AEwAQ#v=onepage&q&f=false"
+},{
+    "decalage" : 0,
+    "question" : "Pour obtenir la pilule il faut vous rendre chez un professionnel de santé",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Vous vous rendez<br />à la pharmacie<br />ou dans un autre<br />centre habilité<br />à vous délivrer<br />la pilule du lendemain",
+    "box_droite" : "La France est l'un des 8 pays de l'Union où la pilule du lendemain est disponible sans prescription. C'est même le seul où elle est disponible dans les lycées.",
+    "chiffre" : "30%",
+    "sous_chiffre" : "des moins de 25 ans ont déjà eu recours à la contraception d'urgence en France.",
+    "source" : "http://www.guttmacher.org/pubs/tgr/05/5/gr050510.html"
+},{
+    "decalage" : 37,
+    "question" : "Si vous avez mis plus de 5 jours à parvenir jusqu’à cette étape",
+    "box_droite" : "...et que votre test de grossesse est positif, vous êtes contrainte d’envisager une I.V.G",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -300,
+    "question" : "L’I.V.G dans votre pays",
+    "box_droite" : "Avec 1,6% de jeunes femmes de moins de 19 subissant une IVG chaque année, la France connait l'un des plus fort taux d'avortement d'Europe.",
+    "chiffre" : "32 231",
+    "sous_chiffre" : "jeunes de moins de 19 ans ont subit une IVG en 2005",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+},{
+    "decalage" : 0,
+    "question" : "Cette histoire n’est pas seulement la votre…",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -200,
+    "question" : "Voici les données statistiques concernant les autres jeunes filles ayant été confrontées aux mêmes décisions.",
+    "box_droite" : "Les Françaises sont 1,1% à devenir mères avant 19 ans (14<sup>e</sup> place européenne), malgré la distribution assez libérale de pilules du lendemain.",
+    "chiffre" : "23 020",
+    "sous_chiffre" : "mères de moins de 19 ans ont accouché en 2008",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+}]
+
+
+
+
+

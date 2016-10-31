@@ -1,0 +1,83 @@
+[{
+    "decalage" : 0,
+    "question" : "Vous<br />résidez&nbsp;au<br />Royaume-Uni",
+    "box_droite" : "Vous avez eu<br />un rapport non protégé",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Quelles<br />seront vos possibilités ?",
+    "box_droite" : "Quels seront<br />vos choix",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "En parlerez-vous<br />avec vos parents?",
+    "box_droite" : "Au Royaume-Uni, les parents peuvent refuser que leurs enfants participent au cours d'éducation sexuelle. Par ailleurs, les enseignants sont libre de ce qu'ils disent aux élèves.",
+    "chiffre" : "88%",
+    "sous_chiffre" : "des jeunes Britanniques sexuellement actives utilisent un moyen de contraception à 15 ans.",
+    "source" : "http://www.unesco.org/courier/2000_07/uk/apprend.htm"
+},{
+    "decalage" : 0,
+    "question" : "Déciderez vous d’aller voir un medecin ? Dans quelles conditions pourrez-vous le consulter ?",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "",
+    "box_droite" : "Même si elles n'en ont pas besoin pour se faire prescrire la pilule du lendemain, avec 19 gynécos pour 100.000 femmes, les Anglaises sont parmi les plus mal loties de l'OCDE.",
+    "chiffre" : "19",
+    "sous_chiffre" : "gynécos pour 100.000 femmes.",
+    "source" : "http://books.google.com/books?id=XEcKgHCeB1YC&pg=PA72&lpg=PA72&dq=frauen%C3%A4rtzte+anzahl+frankreich&source=bl&ots=JNWHa2zFsl&sig=-MNQcFwMRVqYaVWVKh-DpNLTp28&hl=en&ei=rZuhTNW8M96N4gbAroSIAw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CBkQ6AEwAQ#v=onepage&q&f=false"
+},{
+    "decalage" : 0,
+    "question" : "Pour obtenir la pilule il faut vous rendre chez un professionnel de santé",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Vous vous rendez<br />à la pharmacie<br />ou dans un autre<br />centre habilité<br />à vous délivrer<br />la pilule du lendemain",
+    "box_droite" : "L'achat de la pilule du lendemain est libre au dessus de 16 ans. En dessous, les médecins scolaires peuvent néanmoins prescrire la pilule sans en référer aux parents.",
+    "chiffre" : "22£",
+    "sous_chiffre" : "le prix de la pilule du lendemain, sans prescription.",
+    "source" : "https://docs.google.com/viewer?url=http://www.rcn.org.uk/__data/assets/pdf_file/0005/78665/002772.pdf"
+},{
+    "decalage" : 37,
+    "question" : "Si vous avez mis plus de 5 jours à parvenir jusqu’à cette étape",
+    "box_droite" : "...et que votre test de grossesse est positif, vous êtes contrainte d’envisager une I.V.G",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -300,
+    "question" : "L’I.V.G dans votre pays",
+    "box_droite" : "2,4% des jeunes Anglaises subissent un IVG chaque année. Ce taux, le plus fort d'Europe, dépasse les 7% dans certains quartiers pauvres de Londres.",
+    "chiffre" : "44 974",
+    "sous_chiffre" : "jeunes de moins de 19 ans ont subit une IVG en 2008",
+    "source" : "http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsStatistics/DH_099285"
+},{
+    "decalage" : 0,
+    "question" : "Cette histoire n’est pas seulement la votre…",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -200,
+    "question" : "Voici les données statistiques concernant les autres jeunes filles ayant été confrontées aux mêmes décisions.",
+    "box_droite" : "Célèbres pour leurs <i>teenage pregnancy</i>, les Anglaises sont 2,8% à accoucher avant 19 ans, chaque année.",
+    "chiffre" : "50 168",
+    "sous_chiffre" : "mères de moins de 19 ans ont accouché en 2008",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+}]
+
+
+
+
+

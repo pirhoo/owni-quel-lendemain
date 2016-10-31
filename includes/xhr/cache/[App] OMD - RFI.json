@@ -1,0 +1,59 @@
+{"generated" : 1284737581, 
+"doc_name" : "[App] OMD - RFI", 
+"doc_key" : "tJ2t2iKBD4sMOxucB8LCcHw", 
+"data" : [{'ID' : '1' 
+,'objectif' : 'Réduire l\'extrême pauvreté et la faim' 
+,'chiffre' : '925 millions de personnes souffrent de la faim dans le monde' 
+,'brief' : 'Malgré la crise, le nombre de personnes vivant avec moins de 1,25$ par jour a baissé et devrait atteindre 15% en 2015, sauf en Afrique subsaharienne où ce taux avoisine les 50%.' 
+,'url' : 'http://www.rfi.fr/general/20100804-eradiquer-pauvrete-ici-2015-une-gageure' 
+,'position' : '254x71' 
+},
+{'ID' : '2' 
+,'objectif' : 'Assurer l\'éducation primaire pour tous' 
+,'chiffre' : '69 millions d\'enfants sont toujours non scolarisés dans le monde' 
+,'brief' : '89% des enfants des pays en développement sont aujourd\'hui scolarisés mais dans des conditions parfois précaires et avec un enseignement de basse qualité.' 
+,'url' : 'http://www.rfi.fr/general/20100811-objectif-2-presque-atteint-une-education-primaire-tous' 
+,'position' : '404x11' 
+},
+{'ID' : '3' 
+,'objectif' : 'Promouvoir l\'égalité des genres et l\'autonomisation des femmes' 
+,'chiffre' : 'Un emploi de cadre moyen ou supérieur sur quatre est détenu par une femme dans le monde' 
+,'brief' : 'La parité des sexes au niveau mondial est en hausse dans le domaine scolaire mais reste très basse en matière d\'emploi ou de responsabilité politique.' 
+,'url' : 'http://www.rfi.fr/economie/20100819-objectif-millenaire-onu-3-inegalites-hommes-femmes-toujours-tenaces' 
+,'position' : '610x56' 
+},
+{'ID' : '4' 
+,'objectif' : 'Réduire la mortalité infantile' 
+,'chiffre' : '8,8 millions de décès d\'enfants de moins de 5 ans par an' 
+,'brief' : 'La mortalité infantile est en baisse depuis 1990 mais de façon  très insuffisante, d\'autant plus que la majorité des décès pourrait être facilement évités.' 
+,'url' : 'http://www.rfi.fr/afrique/20100825-objectif-4-une-reduction-insuffisante-mortalite-infantile' 
+,'position' : '220x240' 
+},
+{'ID' : '5' 
+,'objectif' : 'Améliorer la santé maternelle' 
+,'chiffre' : 'Entre 400.000 et 500.000 femmes meurent chaque année au cours d\'une grossesse, d\'un accouchement ou de ses conséquences' 
+,'brief' : 'Seulement 63% des femmes accouchent en présence de personnel de santé qualifié dans les pays en développement.' 
+,'url' : 'http://www.rfi.fr/general/20100902-objectif-millenaire-developpement-ONU-5-mobilisation-tardive-autour-sante-maternelle' 
+,'position' : '380x174' 
+},
+{'ID' : '6' 
+,'objectif' : 'Combattre le VIH/SIDA, la malaria et les autres maladies' 
+,'chiffre' : '2 millions de décès dus au Sida par an dans le monde' 
+,'brief' : 'La propagation du VIH décroit même si l\'on dénombre 2,7 millions de nouvelles infections par an et malgré la distribution de 150 millions de moustiquaires, le paludisme est encore responsable d\'un million de décès par an.' 
+,'url' : 'http://www.rfi.fr/general/20100909-objectif-millenaire-developpement-6-succes-lutte-contre-le-sida-le-paludisme' 
+,'position' : '626x228' 
+},
+{'ID' : '7' 
+,'objectif' : 'Assurer un environnement humain durable' 
+,'chiffre' : '5,2 millions d\'hectares de zones forestières disparaissent chaque année' 
+,'brief' : 'Déforestation sauvage, augmentation de 35% du CO2 depuis 1990, biodiversité menacée : les objectifs de du développement durable sont loin d\'être atteints. En Afrique subsaharienne, 40% de la population n\'a toujours pas accès à l\'eau potable.' 
+,'url' : 'http://www.rfi.fr/general/20100914-objectif-7-millenaire-onu-developpement-durable-bien-incertain-environnement-eau' 
+,'position' : '307x341' 
+},
+{'ID' : '8' 
+,'objectif' : 'Construire un partenariat mondial pour le développement' 
+,'chiffre' : 'L\'Aide Publique au Développement ne représente que 0,31% du produit national brut des pays développés' 
+,'brief' : 'Malgré quelques avancées, les règles du commerce international défavorisent encore les pays du Sud et malgré les procédures d\'allègement, le niveau de la dette reste inquiétant pour un certain nombre de pays à faible revenu.' 
+,'url' : 'http://www.rfi.fr/general/20100916-objectif-8-partenariat-mondial-fait-attendre-OMD-millenaire-ONU' 
+,'position' : '538x367' 
+}]}

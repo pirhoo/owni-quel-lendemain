@@ -1,0 +1,83 @@
+[{
+    "decalage" : 0,
+    "question" : "Vous<br />résidez en<br />Allemagne",
+    "box_droite" : "Vous avez eu<br />un rapport non protégé",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Quelles<br />seront vos possibilités ?",
+    "box_droite" : "Quels seront<br />vos choix",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "En parlerez-vous<br />avec vos parents?",
+    "box_droite" : "Les Allemands sont parmi les plus actifs en termes d'éducation sexuelle, en coordination avec les enseignants et les élèves.",
+    "chiffre" : "93%",
+    "sous_chiffre" : "des jeunes Allemandes sexuellement actives utilisent un moyen de contraception à 15 ans.",
+    "source" : "http://bildungsklick.de/pm/35091/sexualaufklaerung-in-europa/"
+},{
+    "decalage" : 0,
+    "question" : "Déciderez vous d’aller voir un medecin ? Dans quelles conditions pourrez-vous le consulter ?",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "",
+    "box_droite" : "Malgré un large débat en 2005, la pilule du lendemain est toujours délivrée aux jeunes Allemandes sur ordonnance uniquement.",
+    "chiffre" : "37",
+    "sous_chiffre" : "gynécos pour 100.000 femmes.",
+    "source" : "http://www.netdoktor.de/Gesund-Leben/Verhuetung/Sicherheit+Notfall/Pille-danach-281.html"
+},{
+    "decalage" : 0,
+    "question" : "Pour obtenir la pilule il faut vous rendre chez un professionnel de santé",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Vous vous rendez<br />à la pharmacie<br />ou dans un autre<br />centre habilité<br />à vous délivrer<br />la pilule du lendemain",
+    "box_droite" : "L'obligation de prescription rend les Allemandes moins consommatrices de pilules du lendemain. Elles achètent 10 fois moins de pilules que les Françaises.",
+    "chiffre" : "9<small>000</small>",
+    "sous_chiffre" : "nombre de pilules vendues en Allemagne en aout 2002.",
+    "source" : "http://www.oegf.at/dokumente/newsletter1102.pdf"
+},{
+    "decalage" : 37,
+    "question" : "Si vous avez mis plus de 5 jours à parvenir jusqu’à cette étape",
+    "box_droite" : "...et que votre test de grossesse est positif, vous êtes contrainte d’envisager une I.V.G",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -300,
+    "question" : "L’I.V.G dans votre pays",
+    "box_droite" : "Avec moins de 0,6% d'Allemandes de moins de 19 ans subissant un avortement, l'Allemagne affiche l'un des plus faibles taux d'avortement. L'une des raisons tient sans doute à un usage quasi systématique (>95%) des contraceptifs chez les jeunes.",
+    "chiffre" : "14 495",
+    "sous_chiffre" : "jeunes de moins de 19 ans ont subit une IVG en 2007",
+    "source" : "http://www.spiegel.de/international/0,1518,454492,00.html"
+},{
+    "decalage" : 0,
+    "question" : "Cette histoire n’est pas seulement la votre…",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -200,
+    "question" : "Voici les données statistiques concernant les autres jeunes filles ayant été confrontées aux mêmes décisions.",
+    "box_droite" : "Avec moins de 1% de mères de moins de 19 ans, les Allemands sont 8<sup>e</sup> d'Europe, alors que les jeunes Allemands sont parmi les premiers Européens à passer à l'acte, à 16 ans.",
+    "chiffre" : "21 682",
+    "sous_chiffre" : "mères de moins de 19 ans ont accouché en 2008",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+}]
+
+
+
+
+

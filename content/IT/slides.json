@@ -1,0 +1,83 @@
+[{
+    "decalage" : 0,
+    "question" : "Vous<br />résidez<br />en Italie",
+    "box_droite" : "Vous avez eu<br />un rapport non protégé",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Quelles<br />seront vos possibilités ?",
+    "box_droite" : "Quels seront<br />vos choix",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "En parlerez-vous<br />avec vos parents?",
+    "box_droite" : "Au pays du Pape, les contradictions entre discours et pratiques nuisent à l'éducation sexuelle et au débat entre parents, enseignants et adolescents.",
+    "chiffre" : "50%",
+    "sous_chiffre" : "des jeunes italiens pensent que l'éducation sexuelle est une perte de temps.",
+    "source" : "http://www.allacademic.com/meta/p_mla_apa_research_citation/1/0/3/8/9/p103899_index.html"
+},{
+    "decalage" : 0,
+    "question" : "Déciderez vous d’aller voir un medecin ? Dans quelles conditions pourrez-vous le consulter ?",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "",
+    "box_droite" : "Les médecins personnels de santé, auprès desquels les jeunes femmes doivent passer pour se faire prescrire la pilule, sont 50% à refuser les avortements. Ils peuvent aussi refuser de prescrire la pilule.",
+    "chiffre" : "70%",
+    "sous_chiffre" : "des gynécos Italiens refusent de pratiquer des avortements.",
+    "source" : "http://www.catholicnewsagency.com/news/italy_doctors_reignite_emergency_contraception_conscience_debate/"
+},{
+    "decalage" : 0,
+    "question" : "Pour obtenir la pilule il faut vous rendre chez un professionnel de santé",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : 0,
+    "question" : "Vous vous rendez<br />à la pharmacie<br />ou dans un autre<br />centre habilité<br />à vous délivrer<br />la pilule du lendemain",
+    "box_droite" : "En Italie, la pilule du lendemain est prescrite sur ordonnance. Dans 4 villes, une ONG offre la pilule aux femmes s'étant vue refuser une ordonnance.",
+    "chiffre" : "320<small>k</small>",
+    "sous_chiffre" : "pilules du lendemain ont été vendues à des moins de 20 ans en 2006 en Italie.",
+    "source" : "http://www.lucacoscioni.it/sos_pillola_del_giorno_dopo"
+},{
+    "decalage" : 37,
+    "question" : "Si vous avez mis plus de 5 jours à parvenir jusqu’à cette étape",
+    "box_droite" : "...et que votre test de grossesse est positif, vous êtes contrainte d’envisager une I.V.G",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -300,
+    "question" : "L’I.V.G dans votre pays",
+    "box_droite" : "Bien que la méthode de contraception préférée des Italienne ait été le <i>coitus interruptus</i> et que 20% d'entre elles déclarent ne pas utiliser de contraceptif, elles sont moins de 0,7% à subir un IVG chaque année.",
+    "chiffre" : "10 659",
+    "sous_chiffre" : "jeunes de moins de 19 ans ont subit une IVG en 2007",
+    "source" : "http://www2.hu-berlin.de/sexology/IES/italy.html"
+},{
+    "decalage" : 0,
+    "question" : "Cette histoire n’est pas seulement la votre…",
+    "box_droite" : "",
+    "chiffre" : "",
+    "sous_chiffre" : "",
+    "source" : ""
+},{
+    "decalage" : -200,
+    "question" : "Voici les données statistiques concernant les autres jeunes filles ayant été confrontées aux mêmes décisions.",
+    "box_droite" : "Avec 0,7% de mères de moins de 19 ans, les Italiens sont parmi les meilleurs de l'UE. Pourtant, les Italiens disent faire plus souvent l'amour que les autres.",
+    "chiffre" : "9 577",
+    "sous_chiffre" : "mères de moins de 19 ans ont accouché en 2007",
+    "source" : "http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+}]
+
+
+
+
+
